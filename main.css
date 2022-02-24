@@ -1,0 +1,85 @@
+body{
+    margin: auto;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 400px;
+}
+input{
+    padding: 20px 20px 20px 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+    
+}
+#input-el{
+    align-items: center;
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    margin: 20px 20px 5px;
+    
+}
+#btn-el{
+    width: auto;
+    padding: 20px 20px 30px 20px;
+    margin: auto 10px;
+    height: 30px;
+    font-size: larger;
+    border-radius: 5px ;
+    background-color: rgba(0, 151, 0, 0.582);
+    text-align: center;
+}
+#btn-dl{
+    width: auto;
+    padding: 20px 20px 30px 20px;
+    margin: auto 0px;
+    height: 30px;
+    color: aliceblue;
+    font-size: larger;
+    border-radius: 5px ;
+    background-color: rgba(207, 30, 17, 0.829);
+    text-align: center;
+}
+#btn-tb{
+    width: auto;
+    padding: 20px 20px 30px 20px;
+    margin: auto 0px;
+    height: 30px;
+    color: rgb(61, 226, 46);
+    font-size: larger;
+    border-radius: 5px ;
+    background-color: rgba(234, 240, 240, 0.568);
+    text-align: center;
+}
+#dv{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    text-align: center;
+    margin: auto auto;
+}
+#bx{
+    padding: 50px 50px;
+    font-weight: bolder;
+}
+button{
+    background-color: blueviolet;
+    border-radius: 12px;
+    text-align: center;
+    margin: 100px auto;
+    width: 100px;
+    height: 100px;
+}
+#bt1{
+    color: black;
+}
+ul{
+margin-top: 20px;
+padding-left: 10px;
+}
+li{
+list-style-type: none;
+margin-top: 10px;
+}
+a{
+color: rgba(0, 151, 0, 0.582) ;
+}
